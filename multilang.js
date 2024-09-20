@@ -29,7 +29,7 @@ var langs = {
         text3: 'BITTE HALTEN SIE IHRE IDENTITÄT GEHEIM!',
         btn: 'ICH BIN EINVERSTANDEN'
     },
-    cz: {
+    cs: {
         text1: 'VŠE, CO VIDÍM VE VAŠÍ ČLENSKÉ OBLASTI, DRŽÍM V DŮVĚŘE.',
         text2: 'BUDU RESPEKTOVAT SOUKROMÍ SVÝCH SPOLUČLENŮ',
         text3: 'PROSÍM, UDRŽUJTE JEJICH IDENTITU V TAJEMSTVÍ!',
