@@ -70,6 +70,7 @@ $(function () {
     } else {
         $('.text1').text(param['text1']);
         $('.text2').text(param['text2']);
+        $('.text3').text(param['text3']);
         $('.btn').text(param['btn']);
     }
 });
