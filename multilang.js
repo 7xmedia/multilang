@@ -71,6 +71,7 @@ $(function () {
         $('.text1').text(param['text1']);
         $('.text2').text(param['text2']);
         $('.text3').text(param['text3']);
+        $('.text4').text(param['text4']);
         $('.btn').text(param['btn']);
     }
 });
